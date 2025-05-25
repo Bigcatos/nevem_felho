@@ -1,1 +1,1 @@
-print("felhő vizsga")
+print("felhő vizsga") #ki irja az uzit
